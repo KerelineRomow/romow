@@ -1,0 +1,1 @@
+print("self work try")
